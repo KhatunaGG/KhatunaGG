@@ -2,7 +2,7 @@
 Hi, I’m Khatuna
 
 
-## 🌐 Socials:
+## 🌐 Socials: https://www.linkedin.com/feed/
 
 
 # 💻 Tech Stack:
